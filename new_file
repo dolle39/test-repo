@@ -3,7 +3,16 @@
 int main(){
  
     int a = 0;
+
+    cout << "Welcome" << endl;
+
+    f();
+
     a = a +2;   
     return a;
 
+}
+
+int f(){
+    return 101;
 }
