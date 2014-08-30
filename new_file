@@ -1,5 +1,8 @@
 #include <iostream>
 
+
+#define NR 100
+
 int main(){
  
     int a = 0;
